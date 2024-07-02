@@ -1,0 +1,36 @@
+<mxfile host="app.diagrams.net" modified="2024-07-02T12:08:20.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-qemrOcJEDOcW2qfwKJY" version="24.6.4" type="device">
+  <diagram name="Page-1" id="lNV7s-uu3u4P6WctyG_S">
+    <mxGraphModel dx="392" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pcoZj8P89DkyJ81WNdUz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pcoZj8P89DkyJ81WNdUz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pcoZj8P89DkyJ81WNdUz-1" value="start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pcoZj8P89DkyJ81WNdUz-6" value="end" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="70" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pcoZj8P89DkyJ81WNdUz-8" value="Homework (Task1)- store input in x, print x 3 times" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pcoZj8P89DkyJ81WNdUz-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pcoZj8P89DkyJ81WNdUz-21" target="pcoZj8P89DkyJ81WNdUz-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pcoZj8P89DkyJ81WNdUz-21" value="x:int&lt;div&gt;&quot;Please enter the number: &quot;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pcoZj8P89DkyJ81WNdUz-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pcoZj8P89DkyJ81WNdUz-22" target="pcoZj8P89DkyJ81WNdUz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pcoZj8P89DkyJ81WNdUz-22" value="print(x,x,x)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
